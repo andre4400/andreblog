@@ -3,3 +3,5 @@ css/base
 css/components
 css/pages
 css/vendor
+_site
+prepros-6.config
