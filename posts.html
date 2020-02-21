@@ -9,11 +9,11 @@ layout: default
             <div class="row post-container">
                 {% include logo.html %}
 
-            {% for postlist in site.posts %}
+
                 <div class="all-posts">
                     <h1 class="page-title">All Posts</h1>
                     <hr style="color: black" class="page-hr">
-
+            {% for postlist in site.posts %}
                     <a href="{{site.baseurl}}{{ postlist.url}}">
                         <div class="posts-content">
                             <div class="posts-body">
@@ -28,7 +28,7 @@ layout: default
                             </div>
                         </div>                        
                     </a>
-
+            {% endfor%}
                     <a href="post.html">
                         <div class="posts-content">
                             <div class="posts-body">
@@ -62,7 +62,7 @@ layout: default
 
                     </div>
                 </div>
-            {% endfor%}
+          
 
             </div>
         </main>
