@@ -1059,6 +1059,9 @@ li {
 
 nav {
   background: transparent; }
+  @media (max-width: 1150px) {
+      nav {
+          margin-left: -3em; } }
 
 .nav-list {
   background-color: #000;
@@ -1205,7 +1208,7 @@ main {
       margin-top: 7em;
       margin-bottom: 2em;
       margin-left: .5em;
-      color: #5a5a5a; }
+      color: #242424; }
       @media (max-width: 370px) {
         .card .card-body h1 {
           font-size: -0.5rem;
