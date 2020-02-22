@@ -2,6 +2,7 @@ markdown: kramdown
 baseurl: andre/
 paginate: 5
 paginate_path: "/page:num/"
+permalink: pretty
 exclude: [
     'prepros-6.config'
   ]

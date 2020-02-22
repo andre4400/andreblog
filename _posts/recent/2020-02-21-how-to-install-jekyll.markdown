@@ -4,7 +4,7 @@ title:  "How to Install Jekyll on Windows"
 meta:   Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways
 date:   2020-02-21 00:56:57 +0100
 date-2: 21 February 2020
-categories: jekyll update
+categories: recent
 ---
 
 Visit GitHub.com and click on the “Sign up” button on the upper right. Write your desired username. This will be visible to others, identify you on GitHub, and also be part of your site’s URL; for example, the author’s GitHub username is amandavisconti and her demo Jekyll site’s URL is http://amandavisconti.github.io/JekyllDemo/. (Note you can also purchase your own domain name and use it for this site, but that won’t be covered in this tutorial). Also write your desired email address and password, then click “Create an account”.
