@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: andre4400/andreblog
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: 'assets/uploads'
